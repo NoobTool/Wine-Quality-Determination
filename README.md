@@ -1,4 +1,4 @@
-# Wine-Quality-Determination
+# Wine-Determining-Network
 Behold,
 
 What nobody can call simply ordinary, I used my first neural network to classify and use regression on the to apply deep learning models 
